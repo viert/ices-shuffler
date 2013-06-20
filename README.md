@@ -49,7 +49,7 @@ albums
 
 Stores all the albums
 
-> db.albums.findOne()
+db.albums.findOne()
 {
   "_id" : ObjectId("5002bf969e34f450a6000435"),
   "album" : "Alien Love Secrets",
